@@ -1,4 +1,4 @@
-# Hey everyone, here's Sumit Kumar.
+# Hey everyone, here's Sumit Kumar. 👋
 
 ### **Building things, failing, learning from those failures, and improving every day.**
 
@@ -6,9 +6,9 @@ I'm a **B.Tech Computer Science and Engineering student @ Marwadi University, Ra
 
 I work on projects that solve real-world problems, add value to people's lives, and help me learn by actually building things.
 
-I also explore **Data Science, AI & algorithmic problem solving on the side.**
+I also explore **Full-Stack Development, Data Science & algorithmic problem solving on the side.**
 
-> Not open for free-work opportunities.  
+> 💡 Not open for free-work opportunities.  
 > If you're building something real, **let's talk. I'm always open to building something meaningful together.**
 
 ---
@@ -57,26 +57,33 @@ I also explore **Data Science, AI & algorithmic problem solving on the side.**
 
 ---
 
-# GitHub Stats
+# 🚀 Live Deployed Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumit-2007-git&show_icons=true&theme=tokyo-night&hide_border=true" height="180" alt="Sumit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-2007-git&layout=compact&theme=tokyo-night&hide_border=true" height="180" alt="Most Used Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-2007-git&theme=tokyo-night&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+| Project | Status | Tech Stack | Links |
+| :--- | :---: | :--- | :---: |
+| 📄 **ResumeForge** <br> ATS-friendly modern resume builder with live preview & export. | 🟢 Live | Next.js • TypeScript • Tailwind | [Live Demo](https://resumeforge-three-rho.vercel.app) • [Repo](https://github.com/sumit-2007-git/resumeforge) |
+| 🛠️ **ToolSphere** <br> All-in-one browser utility toolkit & productivity suite. | 🟢 Live | TypeScript • Next.js • Tailwind | [Live Demo](https://toolsphere-ten.vercel.app) • [Repo](https://github.com/sumit-2007-git/toolsphere) |
+| 📊 **DataAnalyzer** <br> Interactive web platform for data cleaning & chart visualization. | 🟢 Live | JavaScript • Data Viz • Vercel | [Live Demo](https://dataanalyzer-two.vercel.app) • [Repo](https://github.com/sumit-2007-git/dataanalyzer) |
+| ⚡ **SpeedDrop** <br> Lightning-fast peer-to-peer file transfer and sharing web application. | 🟢 Live | TypeScript • Next.js • WebSockets | [Live Demo](https://speeddrop-bay.vercel.app) • [Repo](https://github.com/sumit-2007-git/speeddrop) |
+| 🏛️ **Civix2** <br> Civic issue reporting, feedback and community complaint portal. | 🟢 Live | TypeScript • FullStack • Vercel | [Live Demo](https://civix2.vercel.app) • [Repo](https://github.com/sumit-2007-git/civix2) |
+| 🔍 **SiteLens** <br> Comprehensive website inspection & metrics diagnostic tool. | 🟢 Live | JavaScript • Node.js • Render | [Live Demo](https://sitelens-a8h5.onrender.com) • [Repo](https://github.com/sumit-2007-git/sitelens) |
+| 💼 **Personal Portfolio** <br> Modern, responsive developer portfolio showcasing work & skills. | 🟢 Live | TypeScript • React • Tailwind CSS | [Live Demo](https://my-portfolio-psi-red-69.vercel.app) • [Repo](https://github.com/sumit-2007-git/my-portfolio) |
 
 ---
 
-# Projects
+# 📊 GitHub & Coding Stats
 
-| Project | Status | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| 🤖 **AirControl-AI** - Computer Vision & AI-powered gesture control interface. | 🚀 Done | Python • OpenCV • MediaPipe | [Repo](https://github.com/sumit-2007-git/AirControl-AI) |
-| 💬 **AI Speaking English Chatbot** - Interactive AI chatbot for English speech & conversation practice. | 🚀 Done | Python • AI/NLP • Streamlit | [Repo](https://github.com/sumit-2007-git/ai-speaking-english--chatbot) |
-| 🏨 **Hotel Management System** - Complete hotel room booking, management & billing platform. | 🚀 Done | JavaScript • Node.js • Express • HTML/CSS | [Repo](https://github.com/sumit-2007-git/hotel-management-system) |
-| 🧘 **YogaWell FullStack** - Health and wellness platform with modern responsive frontend & robust backend. | 🛠️ In Progress | React • Node.js • Express • MongoDB | [Repo](https://github.com/sumit-2007-git/YogaWell-FullStack) |
-| 🔍 **RepoLens** - Developer utility tool for repository analytics, insights & inspection. | 🛠️ In Progress | TypeScript • Next.js • Tailwind | [Repo](https://github.com/sumit-2007-git/repolens) |
-| ⚡ **LeetCode Solutions** - Data Structures & Algorithms problem solving repository with optimal solutions. | 📈 Active | Python • C++ • Java | [Repo](https://github.com/sumit-2007-git/leetcode_-solution) |
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumit-2007-git&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Sumit's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumit-2007-git&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=sumit-2007-git&theme=tokyo-night&hide_border=true" height="175" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sumit123_kumar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Sumit123_kumar?theme=dark&font=Karma" height="175" alt="Sumit's LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
@@ -86,24 +93,24 @@ I also explore **Data Science, AI & algorithmic problem solving on the side.**
 
 Passionate about exploring **Generative AI, machine learning pipelines, and competitive programming.**
 
-Constantly tackling complex algorithmic challenges and building practical micro-SaaS and student-centric utilities.
+Constantly tackling complex algorithmic challenges on **LeetCode** and shipping practical, production-ready web apps.
 
 ---
 
 # Let's Connect
 
 <p align="left">
-  <a href="https://github.com/sumit-2007-git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/sumit-kumar-2a4793327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://leetcode.com/u/Sumit123_kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/sumit-2007-git" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="mailto:sumitkeshri.1237373@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -114,5 +121,3 @@ Constantly tackling complex algorithmic challenges and building practical micro-
 <p align="center">
   <i>Thanks for stopping by! 🚀</i>
 </p>
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumit-2007-git&theme=tokyo-night&area=true&hide_border=true)
