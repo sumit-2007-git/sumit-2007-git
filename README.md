@@ -74,8 +74,8 @@ I also explore **Full-Stack Development, Data Science & algorithmic problem solv
 # 📊 GitHub & Coding Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sumit-2007-git&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Sumit's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumit-2007-git&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-2007-git&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="Sumit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-2007-git&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com/?user=sumit-2007-git&theme=tokyo-night&hide_border=true" height="175" alt="GitHub Streak" />
 </p>
 
